@@ -1,0 +1,11 @@
+email: marine.pieux@enalean.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Marine Pieux'
+title: Webmaster
+state: enabled
+hashed_password: $2y$10$0OjPt5gCEaYzPsridfCuuuGOKJTbvl7Ag0L7KqNsV4cZlvsadu7ie
